@@ -1,0 +1,2 @@
+# ML_With_Python
+This repository is really useful as a reference in learning Machine Learning for beginners and intermediate levels, therefore it is very good for learning fundamental principles. However, this is not yet an end-to-end learning process because it only models on train data and test data, excluding Exploratory Data Analyst, Feature Engineering, and Feature Selection, and includes a basic datasets.
